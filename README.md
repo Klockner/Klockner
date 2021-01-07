@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Klockner/Klockner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriel-klockner/">
+        <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Klockner-blue">
+    </a>
+    <a href="https://mail.google.com/">
+        <img alt="Email" src="https://img.shields.io/badge/gabriel.klockner@gmail.com-red">
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "left">
+  <a href="https://github.com/joaorceschini/">
+    <img src="https://github-readme-stats.vercel.app/api?username=Klockner&show_icons=true&theme=react&line_height=27">
+  </a>
+</p>
