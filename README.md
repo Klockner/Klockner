@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-klockner/">
